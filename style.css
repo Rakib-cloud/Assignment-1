@@ -34,3 +34,21 @@
     border-image: linear-gradient(orange,white);
      border-image-slice: 1;
 }
+.mission-div{
+    text-align: center;
+    font-size: 40px;
+}
+.md{
+   display: flex;
+}
+.mission-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+.mission-item h5{
+    font-size: 20px;
+}
