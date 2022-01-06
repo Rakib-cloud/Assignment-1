@@ -32,7 +32,7 @@
 }
 .focus-line{
     border-left: 3px solid;
-    border-image: linear-gradient(orange,white);
+    border-image: linear-gradient(orange,red);
      border-image-slice: 1;
      line-height: 30px;
 }
@@ -50,6 +50,7 @@
     padding-left: 10px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
+  
 }
 .mission-item h5{
     font-size: 20px;
