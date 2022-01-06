@@ -1,6 +1,7 @@
 .body{
     margin: 0;
     font-family: sans-serif;
+   
     
 }
 .flexiable-topheader{
@@ -33,6 +34,7 @@
     border-left: 3px solid;
     border-image: linear-gradient(orange,white);
      border-image-slice: 1;
+     line-height: 30px;
 }
 .mission-div{
     text-align: center;
@@ -72,6 +74,7 @@
 .HI-footer{
     background-color: black;
     height:120px;
+  
 }
 .white-color{
     color: white;
@@ -83,6 +86,7 @@
 }
 .chalf{
     width: 30%;
+    
 }
 
 .content-item{
@@ -96,4 +100,29 @@
 }
 #remove{
     text-decoration: none;
+}
+#bk{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+   background-position: left;
+    background-size: 20% ;
+}
+#m1{
+    background-color: blanchedalmond;
+}
+#m2{
+    background-color: darkgrey;
+}
+#m3{
+    background-color: khaki;
+}
+#rcor{
+    text-align: center;
+}
+#ck{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 20% ;
+    
 }
